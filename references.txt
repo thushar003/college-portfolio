@@ -11,5 +11,6 @@ https://mediaim.expedia.com/destination/1/b9d212f92b2d308b19b9c6b8af5047ad.jpg
 Calicut image:
 https://upload.wikimedia.org/wikipedia/commons/b/bc/Calicut_city.jpg
 
+FONT
 Ubuntu font:
 https://fonts.google.com/specimen/Ubuntu?query=ubuntu
